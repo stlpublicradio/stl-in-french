@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Titillium+Web:200,400,700|Cinzel+Decorative:400,900|Cinzel);
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:200,400|Cinzel+Decorative:900|Cinzel);
 
 
 body {
@@ -38,6 +38,10 @@ font-weight: 900;
 
 .glyphicon {
 		color: #cc203b;
+}
+
+.glyphicon:hover {
+	color: #800000;
 }
 
 .title {
