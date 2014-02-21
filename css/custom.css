@@ -1,0 +1,69 @@
+@import url(http://fonts.googleapis.com/css?family=Titillium+Web:200,400,700|Cinzel+Decorative:400,900|Cinzel);
+
+
+body {
+	width: 550px;
+}
+
+.flag-icon {
+	height: 20px;
+	width: auto;
+	margin-right: 5px;
+}
+
+.container div.row {
+	margin-top: 20px;
+}
+
+div.row div div.row {
+	margin: 0px;
+}
+
+#header {
+	margin-top: 5px;
+}
+
+#header_title,
+#in_french {
+font-family: 'Cinzel Decorative', cursive, serif;	
+font-size: 26px;
+font-weight: 900;
+}
+
+
+.play {
+	margin-left: 5px;
+	font-size: 25px;
+}
+
+.glyphicon {
+		color: #cc203b;
+}
+
+.title {
+	font-family: 'Cinzel', cursive, serif;	
+	font-size: 34px;
+}
+
+.header_summary,
+.footer_summary,
+.summary {
+	font-family: 'Titillium Web', Helvetica, sans-serif;
+	font-weight: 400;
+	font-size: 16px;
+	margin: 0px 15px;
+}
+
+.summary {
+	margin: 10px 0px 0px 0px;
+	font-size: 18px;
+	font-weight: 200;
+}
+
+.footer_summary {
+	font-size: 14px;
+}
+
+.pronounce {
+	font-family: Arial, sans-serif;
+}
